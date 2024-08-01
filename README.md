@@ -200,6 +200,7 @@ extern "C" void app_main(void)
     ......*.
     .......*
 ```
+โค้ดไฟวิ่งดวงเดียว 
 ```
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
@@ -242,6 +243,7 @@ extern "C" void app_main(void)
     .*....*.
     *......*
 ```
+โค้ดไฟวิ่งสองดวงสวนกันตรงกลาง
 ```
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
@@ -287,7 +289,8 @@ extern "C" void app_main(void)
 
 
 
-3. ไฟวิ่งไปกลับ 
+3. ไฟวิ่งไปกลับ
+โค้ดไฟวิ่งไปกลับ  
 ```
     *.......
     .*......
