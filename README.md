@@ -286,7 +286,7 @@ extern "C" void app_main(void)
 }
 
 ```
-
+VDO:https://drive.google.com/file/d/1EIzs8w0WCStVQgnhA78iYEAEqUBDeixd/view?usp=drivesdk
 
 
 3. ไฟวิ่งไปกลับ
@@ -350,5 +350,6 @@ extern "C" void app_main(void)
         }
     }
 }
-```
 
+```
+VDO:https://drive.google.com/file/d/1DLhQ9kUIjJIETjiwOMk23UsuMGKLYz8l/view?usp=drivesdk
